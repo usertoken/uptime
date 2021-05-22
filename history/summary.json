@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.usertoken.com",
     "slug": "user-token",
     "status": "down",
-    "uptime": "34.87%",
-    "uptimeDay": "34.87%",
-    "uptimeWeek": "34.87%",
-    "uptimeMonth": "34.87%",
-    "uptimeYear": "34.87%",
+    "uptime": "16.44%",
+    "uptimeDay": "16.44%",
+    "uptimeWeek": "16.44%",
+    "uptimeMonth": "16.44%",
+    "uptimeYear": "16.44%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-22": 1
+      "2021-05-22": 3
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 239,
-    "timeDay": 239,
-    "timeWeek": 239,
-    "timeMonth": 239,
-    "timeYear": 239,
+    "time": 312,
+    "timeDay": 312,
+    "timeWeek": 312,
+    "timeMonth": 312,
+    "timeYear": 312,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/www.bellbella.com",
     "slug": "bell-bella",
     "status": "down",
-    "uptime": "75.17%",
-    "uptimeDay": "75.17%",
-    "uptimeWeek": "75.17%",
-    "uptimeMonth": "75.17%",
-    "uptimeYear": "75.17%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "uptime": "28.12%",
+    "uptimeDay": "28.12%",
+    "uptimeWeek": "28.12%",
+    "uptimeMonth": "28.12%",
+    "uptimeYear": "28.12%",
+    "time": 3260,
+    "timeDay": 3260,
+    "timeWeek": 3260,
+    "timeMonth": 3260,
+    "timeYear": 3260,
     "dailyMinutesDown": {
-      "2021-05-22": 0
+      "2021-05-22": 2
     }
   },
   {
