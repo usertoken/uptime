@@ -9,6 +9,8 @@ sites:
     url: https://seed11.usertoken.com/
   - name: australia-southeast1
     url: https://seed10.usertoken.com/
+  - name: ut-one
+    url: https://ut-one.uc.r.appspot.com
   - name: Github Usertoken
     url: https://usertoken.github.io
   - name: PointLook
