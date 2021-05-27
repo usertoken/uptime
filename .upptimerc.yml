@@ -13,6 +13,8 @@ sites:
     url: https://concise-rampart-314505.ew.r.appspot.com
   - name: Appspot-uc
     url: https://usertoken-home.uc.r.appspot.com
+  - name: australia-southeast1
+    url: http://seed10.usertoken.com/
   - name: Github Usertoken
     url: https://usertoken.github.io
 
