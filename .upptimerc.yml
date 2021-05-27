@@ -5,18 +5,16 @@ repo: uptime # The name of this repository
 sites:
   - name: UserToken
     url: https://www.usertoken.com
-  - name: PointLook
-    url: https://www.pointlook.com
-  - name: BellBella
-    url: https://www.bellbella.com
-  - name: Appspot-ew
-    url: https://concise-rampart-314505.ew.r.appspot.com
-  - name: Appspot-uc
-    url: https://usertoken-home.uc.r.appspot.com
+  - name:  us-central
+    url: https://seed11.usertoken.com/
   - name: australia-southeast1
     url: https://seed10.usertoken.com/
   - name: Github Usertoken
     url: https://usertoken.github.io
+  - name: PointLook
+    url: https://www.pointlook.com
+  - name: BellBella
+    url: https://www.bellbella.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
