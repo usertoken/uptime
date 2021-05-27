@@ -9,8 +9,10 @@ sites:
     url: https://www.pointlook.com
   - name: BellBella
     url: https://www.bellbella.com
-  - name: Appspot
+  - name: Appspot-ew
     url: https://concise-rampart-314505.ew.r.appspot.com
+  - name: Appspot-uc
+    url: https://usertoken-home.uc.r.appspot.com
   - name: Github Usertoken
     url: https://usertoken.github.io
 
