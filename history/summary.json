@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "down",
-    "uptime": "14.74%",
+    "uptime": "14.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2022-12-28": 52,
+      "2022-12-29": 54,
+      "2022-12-28": 1440,
       "2022-12-27": 1440,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
@@ -375,8 +376,7 @@
       "2022-01-02": 81,
       "2022-01-01": 1440,
       "2021-12-31": 1440,
-      "2021-12-30": 1440,
-      "2021-12-29": 1440
+      "2021-12-30": 1440
     }
   },
   {
@@ -385,18 +385,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/seed11.usertoken.com.ico",
     "slug": "us-central",
     "status": "down",
-    "uptime": "17.16%",
+    "uptime": "17.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 110,
-    "timeDay": 44,
-    "timeWeek": 79,
+    "timeDay": 110,
+    "timeWeek": 82,
     "timeMonth": 99,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2022-12-28": 52,
+      "2022-12-29": 54,
+      "2022-12-28": 1440,
       "2022-12-27": 1440,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
@@ -759,8 +760,7 @@
       "2022-01-02": 1440,
       "2022-01-01": 1440,
       "2021-12-31": 1440,
-      "2021-12-30": 1440,
-      "2021-12-29": 1440
+      "2021-12-30": 1440
     }
   },
   {
@@ -769,18 +769,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/seed10.usertoken.com.ico",
     "slug": "australia-southeast1",
     "status": "down",
-    "uptime": "14.24%",
+    "uptime": "14.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 107,
-    "timeDay": 77,
-    "timeWeek": 84,
-    "timeMonth": 100,
+    "time": 105,
+    "timeDay": 93,
+    "timeWeek": 83,
+    "timeMonth": 101,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2022-12-28": 52,
+      "2022-12-29": 54,
+      "2022-12-28": 1440,
       "2022-12-27": 1440,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
@@ -1143,8 +1144,7 @@
       "2022-01-02": 1440,
       "2022-01-01": 1440,
       "2021-12-31": 1440,
-      "2021-12-30": 1440,
-      "2021-12-29": 1440
+      "2021-12-30": 1440
     }
   },
   {
@@ -1159,8 +1159,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 720,
-    "timeDay": 56,
-    "timeWeek": 1046,
+    "timeDay": 114,
+    "timeWeek": 1051,
     "timeMonth": 1129,
     "timeYear": 767,
     "dailyMinutesDown": {
@@ -1179,9 +1179,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
-    "timeDay": 28,
-    "timeWeek": 72,
-    "timeMonth": 82,
+    "timeDay": 86,
+    "timeWeek": 70,
+    "timeMonth": 80,
     "timeYear": 116,
     "dailyMinutesDown": {}
   },
@@ -1191,18 +1191,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "30.46%",
+    "uptime": "30.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "1.41%",
-    "time": 611,
+    "time": 613,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 750,
     "dailyMinutesDown": {
-      "2022-12-28": 53,
+      "2022-12-29": 54,
+      "2022-12-28": 1440,
       "2022-12-27": 1440,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
@@ -1561,8 +1562,7 @@
       "2022-01-02": 82,
       "2022-01-01": 1440,
       "2021-12-31": 1440,
-      "2021-12-30": 1440,
-      "2021-12-29": 1440
+      "2021-12-30": 1440
     }
   },
   {
@@ -1571,18 +1571,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "down",
-    "uptime": "28.37%",
+    "uptime": "28.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "1.41%",
-    "time": 819,
+    "time": 821,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1011,
     "dailyMinutesDown": {
-      "2022-12-28": 53,
+      "2022-12-29": 54,
+      "2022-12-28": 1440,
       "2022-12-27": 1440,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
@@ -1941,8 +1942,7 @@
       "2022-01-02": 82,
       "2022-01-01": 1440,
       "2021-12-31": 1440,
-      "2021-12-30": 1440,
-      "2021-12-29": 1440
+      "2021-12-30": 1440
     }
   }
 ]
