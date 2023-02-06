@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "15.23%",
+    "uptime": "15.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "26.92%",
-    "uptimeYear": "2.40%",
-    "time": 226,
-    "timeDay": 95,
-    "timeWeek": 134,
-    "timeMonth": 162,
-    "timeYear": 222,
+    "uptimeMonth": "30.19%",
+    "uptimeYear": "2.67%",
+    "time": 227,
+    "timeDay": 267,
+    "timeWeek": 140,
+    "timeMonth": 172,
+    "timeYear": 223,
     "dailyMinutesDown": {
       "2023-01-27": 394,
       "2023-01-26": 1440,
@@ -370,8 +370,7 @@
       "2022-02-10": 1440,
       "2022-02-09": 1440,
       "2022-02-08": 1440,
-      "2022-02-07": 1440,
-      "2022-02-06": 1440
+      "2022-02-07": 1440
     }
   },
   {
@@ -380,18 +379,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/seed11.usertoken.com.ico",
     "slug": "us-central",
     "status": "down",
-    "uptime": "16.08%",
+    "uptime": "16.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 103,
-    "timeDay": 72,
-    "timeWeek": 77,
-    "timeMonth": 95,
+    "timeDay": 133,
+    "timeWeek": 87,
+    "timeMonth": 97,
     "timeYear": 99,
     "dailyMinutesDown": {
-      "2023-02-05": 60,
+      "2023-02-06": 54,
+      "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
@@ -754,8 +754,7 @@
       "2022-02-10": 1440,
       "2022-02-09": 1440,
       "2022-02-08": 1440,
-      "2022-02-07": 1440,
-      "2022-02-06": 1440
+      "2022-02-07": 1440
     }
   },
   {
@@ -764,18 +763,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/seed10.usertoken.com.ico",
     "slug": "australia-southeast1",
     "status": "down",
-    "uptime": "13.34%",
+    "uptime": "13.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 100,
-    "timeDay": 80,
-    "timeWeek": 89,
-    "timeMonth": 98,
+    "timeDay": 99,
+    "timeWeek": 93,
+    "timeMonth": 99,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2023-02-05": 60,
+      "2023-02-06": 54,
+      "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
@@ -1138,8 +1138,7 @@
       "2022-02-10": 1440,
       "2022-02-09": 1440,
       "2022-02-08": 1440,
-      "2022-02-07": 1440,
-      "2022-02-06": 1440
+      "2022-02-07": 1440
     }
   },
   {
@@ -1154,9 +1153,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 742,
-    "timeDay": 71,
-    "timeWeek": 909,
-    "timeMonth": 665,
+    "timeDay": 98,
+    "timeWeek": 906,
+    "timeMonth": 664,
     "timeYear": 802,
     "dailyMinutesDown": {}
   },
@@ -1172,8 +1171,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
-    "timeDay": 71,
-    "timeWeek": 73,
+    "timeDay": 105,
+    "timeWeek": 66,
     "timeMonth": 109,
     "timeYear": 114,
     "dailyMinutesDown": {}
@@ -1184,18 +1183,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "28.55%",
+    "uptime": "28.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 668,
+    "time": 670,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 797,
+    "timeYear": 799,
     "dailyMinutesDown": {
-      "2023-02-05": 60,
+      "2023-02-06": 54,
+      "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
@@ -1558,8 +1558,7 @@
       "2022-02-10": 1440,
       "2022-02-09": 1440,
       "2022-02-08": 1440,
-      "2022-02-07": 1440,
-      "2022-02-06": 1440
+      "2022-02-07": 1440
     }
   },
   {
@@ -1568,7 +1567,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "down",
-    "uptime": "26.60%",
+    "uptime": "26.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1577,9 +1576,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1048,
+    "timeYear": 1049,
     "dailyMinutesDown": {
-      "2023-02-05": 60,
+      "2023-02-06": 54,
+      "2023-02-05": 1440,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
@@ -1942,8 +1942,7 @@
       "2022-02-10": 1440,
       "2022-02-09": 1440,
       "2022-02-08": 1440,
-      "2022-02-07": 1440,
-      "2022-02-06": 1440
+      "2022-02-07": 1440
     }
   }
 ]
