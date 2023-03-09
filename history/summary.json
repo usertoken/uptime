@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "19.24%",
+    "uptime": "19.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "10.90%",
-    "time": 216,
-    "timeDay": 112,
-    "timeWeek": 197,
-    "timeMonth": 159,
-    "timeYear": 208,
+    "uptimeYear": "11.17%",
+    "time": 217,
+    "timeDay": 326,
+    "timeWeek": 217,
+    "timeMonth": 167,
+    "timeYear": 209,
     "dailyMinutesDown": {
       "2023-01-27": 394,
       "2023-01-26": 1440,
@@ -339,8 +339,7 @@
       "2022-03-13": 1440,
       "2022-03-12": 1440,
       "2022-03-11": 1440,
-      "2022-03-10": 1440,
-      "2022-03-09": 1440
+      "2022-03-10": 1440
     }
   },
   {
@@ -349,18 +348,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/seed11.usertoken.com.ico",
     "slug": "us-central",
     "status": "down",
-    "uptime": "15.31%",
+    "uptime": "15.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 102,
-    "timeDay": 99,
-    "timeWeek": 108,
-    "timeMonth": 99,
+    "timeDay": 75,
+    "timeWeek": 102,
+    "timeMonth": 98,
     "timeYear": 99,
     "dailyMinutesDown": {
-      "2023-03-08": 61,
+      "2023-03-09": 60,
+      "2023-03-08": 1440,
       "2023-03-07": 1440,
       "2023-03-06": 1440,
       "2023-03-05": 1440,
@@ -723,8 +723,7 @@
       "2022-03-13": 1440,
       "2022-03-12": 1440,
       "2022-03-11": 1440,
-      "2022-03-10": 1440,
-      "2022-03-09": 1440
+      "2022-03-10": 1440
     }
   },
   {
@@ -733,18 +732,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/seed10.usertoken.com.ico",
     "slug": "australia-southeast1",
     "status": "down",
-    "uptime": "12.70%",
+    "uptime": "12.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 99,
-    "timeDay": 97,
-    "timeWeek": 86,
-    "timeMonth": 90,
+    "timeDay": 66,
+    "timeWeek": 80,
+    "timeMonth": 88,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2023-03-08": 61,
+      "2023-03-09": 60,
+      "2023-03-08": 1440,
       "2023-03-07": 1440,
       "2023-03-06": 1440,
       "2023-03-05": 1440,
@@ -1107,8 +1107,7 @@
       "2022-03-13": 1440,
       "2022-03-12": 1440,
       "2022-03-11": 1440,
-      "2022-03-10": 1440,
-      "2022-03-09": 1440
+      "2022-03-10": 1440
     }
   },
   {
@@ -1120,13 +1119,13 @@
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 724,
-    "timeDay": 72,
-    "timeWeek": 100,
-    "timeMonth": 516,
-    "timeYear": 822,
+    "timeDay": 98,
+    "timeWeek": 97,
+    "timeMonth": 460,
+    "timeYear": 817,
     "dailyMinutesDown": {
       "2023-02-08": 20
     }
@@ -1143,9 +1142,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 52,
-    "timeWeek": 150,
-    "timeMonth": 99,
+    "timeDay": 98,
+    "timeWeek": 100,
+    "timeMonth": 100,
     "timeYear": 113,
     "dailyMinutesDown": {}
   },
@@ -1155,18 +1154,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "27.20%",
+    "uptime": "27.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 722,
+    "time": 724,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 715,
     "dailyMinutesDown": {
-      "2023-03-08": 61,
+      "2023-03-09": 60,
+      "2023-03-08": 1440,
       "2023-03-07": 1440,
       "2023-03-06": 1440,
       "2023-03-05": 1440,
@@ -1529,8 +1529,7 @@
       "2022-03-13": 1440,
       "2022-03-12": 1440,
       "2022-03-11": 1440,
-      "2022-03-10": 1440,
-      "2022-03-09": 1440
+      "2022-03-10": 1440
     }
   },
   {
@@ -1539,18 +1538,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "down",
-    "uptime": "25.34%",
+    "uptime": "25.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 905,
+    "time": 907,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1060,
+    "timeYear": 1059,
     "dailyMinutesDown": {
-      "2023-03-08": 61,
+      "2023-03-09": 60,
+      "2023-03-08": 1440,
       "2023-03-07": 1440,
       "2023-03-06": 1440,
       "2023-03-05": 1440,
@@ -1913,8 +1913,7 @@
       "2022-03-13": 1440,
       "2022-03-12": 1440,
       "2022-03-11": 1440,
-      "2022-03-10": 1440,
-      "2022-03-09": 1440
+      "2022-03-10": 1440
     }
   }
 ]
