@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "46.74%",
+    "uptime": "46.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "81.93%",
+    "uptimeYear": "82.21%",
     "time": 185,
-    "timeDay": 313,
-    "timeWeek": 185,
-    "timeMonth": 187,
+    "timeDay": 162,
+    "timeWeek": 195,
+    "timeMonth": 188,
     "timeYear": 183,
     "dailyMinutesDown": {
       "2023-12-25": 62,
@@ -79,8 +79,7 @@
       "2023-07-19": 1440,
       "2023-07-18": 1440,
       "2023-07-17": 1440,
-      "2023-07-16": 1440,
-      "2023-07-15": 1440
+      "2023-07-16": 1440
     }
   },
   {
@@ -95,12 +94,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 97,
-    "timeDay": 95,
-    "timeWeek": 113,
-    "timeMonth": 109,
+    "timeDay": 92,
+    "timeWeek": 105,
+    "timeMonth": 108,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2024-07-13": 53,
+      "2024-07-14": 57,
+      "2024-07-13": 1440,
       "2024-07-12": 1440,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
@@ -463,8 +463,7 @@
       "2023-07-19": 1440,
       "2023-07-18": 1440,
       "2023-07-17": 1440,
-      "2023-07-16": 1440,
-      "2023-07-15": 1440
+      "2023-07-16": 1440
     }
   },
   {
@@ -479,12 +478,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 88,
-    "timeDay": 119,
-    "timeWeek": 119,
+    "timeDay": 110,
+    "timeWeek": 115,
     "timeMonth": 95,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2024-07-13": 53,
+      "2024-07-14": 57,
+      "2024-07-13": 1440,
       "2024-07-12": 1440,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
@@ -847,8 +847,7 @@
       "2023-07-19": 1440,
       "2023-07-18": 1440,
       "2023-07-17": 1440,
-      "2023-07-16": 1440,
-      "2023-07-15": 1440
+      "2023-07-16": 1440
     }
   },
   {
@@ -862,11 +861,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1286,
-    "timeDay": 3844,
-    "timeWeek": 2542,
-    "timeMonth": 2277,
-    "timeYear": 1409,
+    "time": 1290,
+    "timeDay": 1833,
+    "timeWeek": 2521,
+    "timeMonth": 2284,
+    "timeYear": 1413,
     "dailyMinutesDown": {
       "2023-10-23": 45
     }
@@ -882,9 +881,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 100,
-    "timeDay": 123,
-    "timeWeek": 84,
+    "time": 99,
+    "timeDay": 67,
+    "timeWeek": 87,
     "timeMonth": 86,
     "timeYear": 100,
     "dailyMinutesDown": {}
@@ -895,7 +894,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "15.52%",
+    "uptime": "15.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -906,7 +905,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-13": 53,
+      "2024-07-14": 57,
+      "2024-07-13": 1440,
       "2024-07-12": 1440,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
@@ -1269,8 +1269,7 @@
       "2023-07-19": 1440,
       "2023-07-18": 1440,
       "2023-07-17": 1440,
-      "2023-07-16": 1440,
-      "2023-07-15": 1440
+      "2023-07-16": 1440
     }
   },
   {
@@ -1279,7 +1278,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "down",
-    "uptime": "14.46%",
+    "uptime": "14.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1290,7 +1289,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-13": 53,
+      "2024-07-14": 57,
+      "2024-07-13": 1440,
       "2024-07-12": 1440,
       "2024-07-11": 1440,
       "2024-07-10": 1440,
@@ -1653,8 +1653,7 @@
       "2023-07-19": 1440,
       "2023-07-18": 1440,
       "2023-07-17": 1440,
-      "2023-07-16": 1440,
-      "2023-07-15": 1440
+      "2023-07-16": 1440
     }
   }
 ]
