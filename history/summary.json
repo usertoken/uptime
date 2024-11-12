@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "51.82%",
+    "uptime": "51.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 190,
-    "timeDay": 303,
-    "timeWeek": 220,
-    "timeMonth": 232,
+    "timeDay": 183,
+    "timeWeek": 219,
+    "timeMonth": 234,
     "timeYear": 187,
     "dailyMinutesDown": {
       "2023-12-25": 62
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/seed11.usertoken.com.ico",
     "slug": "us-central",
     "status": "down",
-    "uptime": "7.87%",
+    "uptime": "7.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 103,
-    "timeDay": 118,
-    "timeWeek": 118,
+    "timeDay": 120,
+    "timeWeek": 123,
     "timeMonth": 119,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2024-11-11": 61,
+      "2024-11-12": 59,
+      "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
@@ -399,8 +400,7 @@
       "2023-11-17": 1440,
       "2023-11-16": 1440,
       "2023-11-15": 1440,
-      "2023-11-14": 1440,
-      "2023-11-13": 1440
+      "2023-11-14": 1440
     }
   },
   {
@@ -415,12 +415,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 93,
-    "timeDay": 90,
-    "timeWeek": 122,
-    "timeMonth": 112,
+    "timeDay": 96,
+    "timeWeek": 118,
+    "timeMonth": 111,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2024-11-11": 61,
+      "2024-11-12": 59,
+      "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
@@ -783,8 +784,7 @@
       "2023-11-17": 1440,
       "2023-11-16": 1440,
       "2023-11-15": 1440,
-      "2023-11-14": 1440,
-      "2023-11-13": 1440
+      "2023-11-14": 1440
     }
   },
   {
@@ -798,11 +798,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1557,
-    "timeDay": 2072,
-    "timeWeek": 1693,
-    "timeMonth": 1910,
-    "timeYear": 1788,
+    "time": 1561,
+    "timeDay": 1897,
+    "timeWeek": 1734,
+    "timeMonth": 1969,
+    "timeYear": 1793,
     "dailyMinutesDown": {
       "2024-09-18": 18
     }
@@ -819,9 +819,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 102,
-    "timeDay": 188,
-    "timeWeek": 105,
-    "timeMonth": 119,
+    "timeDay": 75,
+    "timeWeek": 103,
+    "timeMonth": 121,
     "timeYear": 100,
     "dailyMinutesDown": {}
   },
@@ -831,7 +831,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "14.04%",
+    "uptime": "14.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -842,7 +842,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-11": 61,
+      "2024-11-12": 59,
+      "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
@@ -1205,8 +1206,7 @@
       "2023-11-17": 1440,
       "2023-11-16": 1440,
       "2023-11-15": 1440,
-      "2023-11-14": 1440,
-      "2023-11-13": 1440
+      "2023-11-14": 1440
     }
   },
   {
@@ -1215,7 +1215,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "down",
-    "uptime": "13.08%",
+    "uptime": "13.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1226,7 +1226,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-11": 61,
+      "2024-11-12": 59,
+      "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
@@ -1589,8 +1590,7 @@
       "2023-11-17": 1440,
       "2023-11-16": 1440,
       "2023-11-15": 1440,
-      "2023-11-14": 1440,
-      "2023-11-13": 1440
+      "2023-11-14": 1440
     }
   }
 ]
