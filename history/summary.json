@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "55.13%",
+    "uptime": "55.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "69.23%",
+    "uptimeMonth": "72.51%",
     "uptimeYear": "96.75%",
     "time": 190,
-    "timeDay": 157,
-    "timeWeek": 186,
-    "timeMonth": 217,
+    "timeDay": 167,
+    "timeWeek": 182,
+    "timeMonth": 214,
     "timeYear": 195,
     "dailyMinutesDown": {
       "2025-02-20": 583,
@@ -37,18 +37,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/seed11.usertoken.com.ico",
     "slug": "us-central",
     "status": "down",
-    "uptime": "7.19%",
+    "uptime": "7.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 106,
-    "timeDay": 147,
-    "timeWeek": 128,
-    "timeMonth": 123,
+    "timeDay": 84,
+    "timeWeek": 123,
+    "timeMonth": 121,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2025-03-11": 64,
+      "2025-03-12": 63,
+      "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -411,8 +412,7 @@
       "2024-03-16": 1440,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
-      "2024-03-13": 1440,
-      "2024-03-12": 1440
+      "2024-03-13": 1440
     }
   },
   {
@@ -427,12 +427,13 @@
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 97,
-    "timeDay": 152,
-    "timeWeek": 115,
-    "timeMonth": 109,
-    "timeYear": 100,
+    "timeDay": 153,
+    "timeWeek": 121,
+    "timeMonth": 111,
+    "timeYear": 101,
     "dailyMinutesDown": {
-      "2025-03-11": 64,
+      "2025-03-12": 63,
+      "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -795,8 +796,7 @@
       "2024-03-16": 1440,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
-      "2024-03-13": 1440,
-      "2024-03-12": 1440
+      "2024-03-13": 1440
     }
   },
   {
@@ -811,10 +811,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1597,
-    "timeDay": 99,
-    "timeWeek": 1180,
-    "timeMonth": 849,
-    "timeYear": 1680,
+    "timeDay": 101,
+    "timeWeek": 942,
+    "timeMonth": 846,
+    "timeYear": 1674,
     "dailyMinutesDown": {
       "2024-09-18": 18
     }
@@ -830,10 +830,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 102,
+    "time": 101,
     "timeDay": 81,
     "timeWeek": 91,
-    "timeMonth": 112,
+    "timeMonth": 113,
     "timeYear": 99,
     "dailyMinutesDown": {}
   },
@@ -843,7 +843,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "12.83%",
+    "uptime": "12.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -854,7 +854,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-11": 64,
+      "2025-03-12": 64,
+      "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -1217,8 +1218,7 @@
       "2024-03-16": 1440,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
-      "2024-03-13": 1440,
-      "2024-03-12": 1440
+      "2024-03-13": 1440
     }
   },
   {
@@ -1227,7 +1227,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "down",
-    "uptime": "11.95%",
+    "uptime": "11.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1238,7 +1238,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-11": 64,
+      "2025-03-12": 64,
+      "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -1601,8 +1602,7 @@
       "2024-03-16": 1440,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
-      "2024-03-13": 1440,
-      "2024-03-12": 1440
+      "2024-03-13": 1440
     }
   }
 ]
