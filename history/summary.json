@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "61.57%",
+    "uptime": "61.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.75%",
     "time": 213,
-    "timeDay": 162,
-    "timeWeek": 225,
-    "timeMonth": 224,
-    "timeYear": 217,
+    "timeDay": 252,
+    "timeWeek": 222,
+    "timeMonth": 225,
+    "timeYear": 218,
     "dailyMinutesDown": {
       "2025-02-20": 583,
       "2025-02-19": 1440,
@@ -40,15 +40,16 @@
     "uptime": "6.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 124,
-    "timeDay": 65,
-    "timeWeek": 96,
-    "timeMonth": 111,
-    "timeYear": 126,
+    "timeDay": 206,
+    "timeWeek": 113,
+    "timeMonth": 114,
+    "timeYear": 127,
     "dailyMinutesDown": {
-      "2025-10-30": 71,
+      "2025-10-31": 69,
+      "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
@@ -411,8 +412,7 @@
       "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
-      "2024-11-01": 1440,
-      "2024-10-31": 1440
+      "2024-11-01": 1440
     }
   },
   {
@@ -424,15 +424,16 @@
     "uptime": "5.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 119,
-    "timeDay": 90,
-    "timeWeek": 105,
-    "timeMonth": 118,
+    "timeDay": 147,
+    "timeWeek": 112,
+    "timeMonth": 119,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2025-10-30": 71,
+      "2025-10-31": 69,
+      "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
@@ -795,8 +796,7 @@
       "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
-      "2024-11-01": 1440,
-      "2024-10-31": 1440
+      "2024-11-01": 1440
     }
   },
   {
@@ -810,11 +810,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 939,
-    "timeDay": 88,
-    "timeWeek": 121,
-    "timeMonth": 116,
-    "timeYear": 509,
+    "time": 933,
+    "timeDay": 143,
+    "timeWeek": 115,
+    "timeMonth": 117,
+    "timeYear": 504,
     "dailyMinutesDown": {}
   },
   {
@@ -829,10 +829,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 77,
-    "timeWeek": 134,
-    "timeMonth": 125,
-    "timeYear": 128,
+    "timeDay": 242,
+    "timeWeek": 138,
+    "timeMonth": 129,
+    "timeYear": 129,
     "dailyMinutesDown": {}
   },
   {
@@ -844,7 +844,7 @@
     "uptime": "10.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -852,7 +852,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-30": 71,
+      "2025-10-31": 69,
+      "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
@@ -1215,8 +1216,7 @@
       "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
-      "2024-11-01": 1440,
-      "2024-10-31": 1440
+      "2024-11-01": 1440
     }
   },
   {
@@ -1225,16 +1225,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "up",
-    "uptime": "17.85%",
+    "uptime": "17.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "33.84%",
-    "time": 393,
-    "timeDay": 135,
-    "timeWeek": 1029,
-    "timeMonth": 480,
-    "timeYear": 393,
+    "uptimeYear": "34.11%",
+    "time": 392,
+    "timeDay": 283,
+    "timeWeek": 990,
+    "timeMonth": 474,
+    "timeYear": 392,
     "dailyMinutesDown": {
       "2025-09-28": 128,
       "2025-09-17": 25,
@@ -1487,8 +1487,7 @@
       "2024-11-04": 1440,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
-      "2024-11-01": 1440,
-      "2024-10-31": 1440
+      "2024-11-01": 1440
     }
   }
 ]
