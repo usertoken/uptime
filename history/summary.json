@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "61.85%",
+    "uptime": "61.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.75%",
     "time": 214,
-    "timeDay": 314,
-    "timeWeek": 231,
-    "timeMonth": 219,
+    "timeDay": 167,
+    "timeWeek": 220,
+    "timeMonth": 218,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2025-02-20": 583,
@@ -37,18 +37,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/seed11.usertoken.com.ico",
     "slug": "us-central",
     "status": "down",
-    "uptime": "6.11%",
+    "uptime": "6.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 125,
-    "timeDay": 195,
-    "timeWeek": 134,
+    "time": 124,
+    "timeDay": 76,
+    "timeWeek": 123,
     "timeMonth": 122,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2025-11-11": 71,
+      "2025-11-12": 71,
+      "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
@@ -411,8 +412,7 @@
       "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
-      "2024-11-13": 1440,
-      "2024-11-12": 1440
+      "2024-11-13": 1440
     }
   },
   {
@@ -421,18 +421,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/seed10.usertoken.com.ico",
     "slug": "australia-southeast1",
     "status": "down",
-    "uptime": "5.07%",
+    "uptime": "5.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 120,
-    "timeDay": 73,
-    "timeWeek": 120,
+    "timeDay": 155,
+    "timeWeek": 119,
     "timeMonth": 121,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2025-11-11": 71,
+      "2025-11-12": 71,
+      "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
@@ -795,8 +796,7 @@
       "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
-      "2024-11-13": 1440,
-      "2024-11-12": 1440
+      "2024-11-13": 1440
     }
   },
   {
@@ -811,10 +811,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 879,
-    "timeDay": 193,
-    "timeWeek": 138,
-    "timeMonth": 120,
-    "timeYear": 455,
+    "timeDay": 98,
+    "timeWeek": 131,
+    "timeMonth": 118,
+    "timeYear": 450,
     "dailyMinutesDown": {}
   },
   {
@@ -829,9 +829,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 191,
-    "timeWeek": 134,
-    "timeMonth": 131,
+    "timeDay": 87,
+    "timeWeek": 124,
+    "timeMonth": 128,
     "timeYear": 129,
     "dailyMinutesDown": {}
   },
@@ -852,7 +852,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-11": 71,
+      "2025-11-12": 71,
+      "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
@@ -1215,8 +1216,7 @@
       "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
-      "2024-11-13": 1440,
-      "2024-11-12": 1440
+      "2024-11-13": 1440
     }
   },
   {
@@ -1225,16 +1225,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "up",
-    "uptime": "18.45%",
+    "uptime": "18.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "37.13%",
-    "time": 397,
-    "timeDay": 513,
-    "timeWeek": 549,
-    "timeMonth": 503,
-    "timeYear": 397,
+    "uptimeYear": "37.40%",
+    "time": 396,
+    "timeDay": 140,
+    "timeWeek": 478,
+    "timeMonth": 502,
+    "timeYear": 396,
     "dailyMinutesDown": {
       "2025-09-28": 128,
       "2025-09-17": 25,
@@ -1475,8 +1475,7 @@
       "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
-      "2024-11-13": 1440,
-      "2024-11-12": 1440
+      "2024-11-13": 1440
     }
   }
 ]
