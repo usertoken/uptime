@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "64.28%",
+    "uptime": "64.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 244,
-    "timeWeek": 221,
-    "timeMonth": 243,
+    "timeDay": 267,
+    "timeWeek": 225,
+    "timeMonth": 242,
     "timeYear": 224,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/seed11.usertoken.com.ico",
     "slug": "us-central",
     "status": "down",
-    "uptime": "5.72%",
+    "uptime": "5.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 128,
-    "timeDay": 148,
-    "timeWeek": 124,
-    "timeMonth": 130,
+    "timeDay": 228,
+    "timeWeek": 132,
+    "timeMonth": 135,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2026-03-02": 103,
+      "2026-03-03": 106,
+      "2026-03-02": 1440,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
@@ -397,8 +398,7 @@
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
-      "2025-03-04": 1440,
-      "2025-03-03": 1440
+      "2025-03-04": 1440
     }
   },
   {
@@ -412,13 +412,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 122,
-    "timeDay": 226,
-    "timeWeek": 130,
-    "timeMonth": 128,
+    "time": 123,
+    "timeDay": 119,
+    "timeWeek": 133,
+    "timeMonth": 127,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2026-03-02": 103,
+      "2026-03-03": 106,
+      "2026-03-02": 1440,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
@@ -781,8 +782,7 @@
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
-      "2025-03-04": 1440,
-      "2025-03-03": 1440
+      "2025-03-04": 1440
     }
   },
   {
@@ -796,9 +796,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 448,
-    "timeDay": 121,
-    "timeWeek": 119,
+    "time": 444,
+    "timeDay": 138,
+    "timeWeek": 128,
     "timeMonth": 130,
     "timeYear": 182,
     "dailyMinutesDown": {}
@@ -815,9 +815,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 129,
-    "timeWeek": 103,
-    "timeMonth": 125,
+    "timeDay": 150,
+    "timeWeek": 111,
+    "timeMonth": 126,
     "timeYear": 134,
     "dailyMinutesDown": {}
   },
@@ -827,7 +827,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "10.21%",
+    "uptime": "10.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -838,7 +838,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-02": 103,
+      "2026-03-03": 106,
+      "2026-03-02": 1440,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
@@ -1201,8 +1202,7 @@
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
-      "2025-03-04": 1440,
-      "2025-03-03": 1440
+      "2025-03-04": 1440
     }
   },
   {
@@ -1211,18 +1211,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "down",
-    "uptime": "18.57%",
+    "uptime": "18.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "15.70%",
     "uptimeYear": "43.29%",
     "time": 379,
-    "timeDay": 353,
-    "timeWeek": 336,
+    "timeDay": 439,
+    "timeWeek": 357,
     "timeMonth": 412,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2026-03-02": 104,
+      "2026-03-03": 106,
+      "2026-03-02": 1440,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
@@ -1446,8 +1447,7 @@
       "2025-03-07": 1440,
       "2025-03-06": 1440,
       "2025-03-05": 1440,
-      "2025-03-04": 1440,
-      "2025-03-03": 1440
+      "2025-03-04": 1440
     }
   }
 ]
