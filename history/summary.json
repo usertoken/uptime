@@ -34,7 +34,7 @@
     "timeMonth": 131,
     "timeYear": 134,
     "dailyMinutesDown": {
-      "2026-04-13": 1184,
+      "2026-04-13": 1239,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 111,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2026-04-13": 1184,
+      "2026-04-13": 1239,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
@@ -808,19 +808,19 @@
     "url": "https://usertoken.github.io",
     "icon": "https://icons.duckduckgo.com/ip3/usertoken.github.io.ico",
     "slug": "github-usertoken",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "96.16%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
     "time": 129,
-    "timeDay": 100,
-    "timeWeek": 121,
-    "timeMonth": 126,
+    "timeDay": 116,
+    "timeWeek": 124,
+    "timeMonth": 127,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2026-04-13": 1
+      "2026-04-13": 55
     }
   },
   {
@@ -840,7 +840,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-13": 1184,
+      "2026-04-13": 1239,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
@@ -1224,7 +1224,7 @@
     "timeMonth": 316,
     "timeYear": 369,
     "dailyMinutesDown": {
-      "2026-04-13": 1184,
+      "2026-04-13": 1239,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
       "2026-04-10": 807,
