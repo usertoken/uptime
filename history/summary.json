@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "66.27%",
+    "uptime": "66.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 187,
-    "timeWeek": 201,
-    "timeMonth": 199,
+    "timeDay": 281,
+    "timeWeek": 204,
+    "timeMonth": 205,
     "timeYear": 229,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/seed11.usertoken.com.ico",
     "slug": "us-central",
     "status": "down",
-    "uptime": "5.40%",
+    "uptime": "5.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 127,
-    "timeDay": 64,
-    "timeWeek": 55,
-    "timeMonth": 72,
-    "timeYear": 131,
+    "timeDay": 47,
+    "timeWeek": 54,
+    "timeMonth": 69,
+    "timeYear": 130,
     "dailyMinutesDown": {
-      "2026-06-13": 171,
+      "2026-06-14": 125,
+      "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -397,8 +398,7 @@
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
-      "2025-06-15": 1440,
-      "2025-06-14": 1440
+      "2025-06-15": 1440
     }
   },
   {
@@ -413,12 +413,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 120,
-    "timeDay": 37,
-    "timeWeek": 41,
+    "timeDay": 43,
+    "timeWeek": 42,
     "timeMonth": 42,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2026-06-13": 171,
+      "2026-06-14": 125,
+      "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -781,8 +782,7 @@
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
-      "2025-06-15": 1440,
-      "2025-06-14": 1440
+      "2025-06-15": 1440
     }
   },
   {
@@ -797,9 +797,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 94,
-    "timeWeek": 115,
-    "timeMonth": 267,
+    "timeDay": 126,
+    "timeWeek": 113,
+    "timeMonth": 268,
     "timeYear": 132,
     "dailyMinutesDown": {}
   },
@@ -815,9 +815,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 131,
-    "timeDay": 87,
-    "timeWeek": 105,
-    "timeMonth": 116,
+    "timeDay": 139,
+    "timeWeek": 100,
+    "timeMonth": 118,
     "timeYear": 138,
     "dailyMinutesDown": {
       "2026-04-13": 55
@@ -840,7 +840,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 171,
+      "2026-06-14": 125,
+      "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -1203,8 +1204,7 @@
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
-      "2025-06-15": 1440,
-      "2025-06-14": 1440
+      "2025-06-15": 1440
     }
   },
   {
@@ -1212,16 +1212,16 @@
     "url": "https://www.bellbella.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
-    "status": "up",
-    "uptime": "20.16%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.80%",
+    "status": "down",
+    "uptime": "20.21%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "98.79%",
     "uptimeMonth": "98.30%",
-    "uptimeYear": "56.62%",
+    "uptimeYear": "56.89%",
     "time": 354,
-    "timeDay": 222,
-    "timeWeek": 230,
-    "timeMonth": 244,
+    "timeDay": 347,
+    "timeWeek": 225,
+    "timeMonth": 248,
     "timeYear": 354,
     "dailyMinutesDown": {
       "2025-06-27": 535,
@@ -1237,7 +1237,6 @@
       "2025-06-17": 1440,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
-      "2025-06-14": 1440,
       "2025-07-04": 24,
       "2025-07-05": 45,
       "2025-07-09": 17,
@@ -1414,7 +1413,8 @@
       "2026-05-16": 63,
       "2026-05-19": 203,
       "2026-05-26": 263,
-      "2026-06-07": 121
+      "2026-06-07": 121,
+      "2026-06-14": 0
     }
   }
 ]
