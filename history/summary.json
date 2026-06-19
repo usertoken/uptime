@@ -34,7 +34,7 @@
     "timeMonth": 65,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2026-06-19": 598,
+      "2026-06-19": 984,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 41,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2026-06-19": 598,
+      "2026-06-19": 984,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
@@ -840,7 +840,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-19": 599,
+      "2026-06-19": 984,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
       "2026-06-16": 1440,
@@ -1212,16 +1212,16 @@
     "url": "https://www.bellbella.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
-    "status": "down",
+    "status": "up",
     "uptime": "20.42%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "97.09%",
-    "uptimeMonth": "97.99%",
+    "uptimeDay": "73.21%",
+    "uptimeWeek": "93.27%",
+    "uptimeMonth": "97.57%",
     "uptimeYear": "58.29%",
     "time": 352,
-    "timeDay": 350,
-    "timeWeek": 284,
-    "timeMonth": 264,
+    "timeDay": 285,
+    "timeWeek": 271,
+    "timeMonth": 267,
     "timeYear": 352,
     "dailyMinutesDown": {
       "2025-06-27": 535,
@@ -1410,7 +1410,7 @@
       "2026-05-26": 263,
       "2026-06-07": 121,
       "2026-06-14": 293,
-      "2026-06-19": 0
+      "2026-06-19": 386
     }
   }
 ]
