@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "66.60%",
+    "uptime": "66.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -34,7 +34,7 @@
     "timeMonth": 68,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2026-07-01": 174,
+      "2026-07-01": 1220,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 43,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2026-07-01": 174,
+      "2026-07-01": 1220,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -829,7 +829,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "9.55%",
+    "uptime": "9.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -840,7 +840,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-01": 174,
+      "2026-07-01": 1220,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
@@ -1212,16 +1212,16 @@
     "url": "https://www.bellbella.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
-    "status": "up",
-    "uptime": "20.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "62.27%",
+    "status": "down",
+    "uptime": "20.69%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "62.26%",
     "uptimeMonth": "83.08%",
     "uptimeYear": "59.14%",
-    "time": 348,
-    "timeDay": 128,
-    "timeWeek": 275,
-    "timeMonth": 272,
+    "time": 347,
+    "timeDay": 105,
+    "timeWeek": 264,
+    "timeMonth": 268,
     "timeYear": 345,
     "dailyMinutesDown": {
       "2025-07-04": 24,
@@ -1408,7 +1408,8 @@
       "2026-06-27": 1423,
       "2026-06-26": 328,
       "2026-06-28": 1197,
-      "2026-06-29": 857
+      "2026-06-29": 857,
+      "2026-07-01": 0
     }
   }
 ]
