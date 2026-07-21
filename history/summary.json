@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "66.93%",
+    "uptime": "66.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 194,
-    "timeWeek": 164,
-    "timeMonth": 187,
+    "timeDay": 378,
+    "timeWeek": 205,
+    "timeMonth": 191,
     "timeYear": 229,
     "dailyMinutesDown": {}
   },
@@ -29,12 +29,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 124,
-    "timeDay": 63,
-    "timeWeek": 70,
-    "timeMonth": 77,
+    "timeDay": 66,
+    "timeWeek": 63,
+    "timeMonth": 76,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2026-07-20": 148,
+      "2026-07-21": 127,
+      "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
@@ -397,8 +398,7 @@
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
-      "2025-07-22": 1440,
-      "2025-07-21": 1440
+      "2025-07-22": 1440
     }
   },
   {
@@ -413,12 +413,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 115,
-    "timeDay": 162,
-    "timeWeek": 55,
+    "timeDay": 48,
+    "timeWeek": 57,
     "timeMonth": 50,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2026-07-20": 148,
+      "2026-07-21": 127,
+      "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
@@ -781,8 +782,7 @@
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
-      "2025-07-22": 1440,
-      "2025-07-21": 1440
+      "2025-07-22": 1440
     }
   },
   {
@@ -796,9 +796,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 165,
-    "timeDay": 109,
-    "timeWeek": 89,
+    "time": 160,
+    "timeDay": 108,
+    "timeWeek": 92,
     "timeMonth": 108,
     "timeYear": 131,
     "dailyMinutesDown": {}
@@ -814,9 +814,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 132,
-    "timeDay": 81,
-    "timeWeek": 112,
+    "time": 131,
+    "timeDay": 125,
+    "timeWeek": 111,
     "timeMonth": 108,
     "timeYear": 136,
     "dailyMinutesDown": {
@@ -840,7 +840,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-20": 148,
+      "2026-07-21": 127,
+      "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
@@ -1203,8 +1204,7 @@
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
-      "2025-07-22": 1440,
-      "2025-07-21": 1440
+      "2025-07-22": 1440
     }
   },
   {
@@ -1213,14 +1213,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "up",
-    "uptime": "21.33%",
+    "uptime": "21.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "87.35%",
-    "uptimeMonth": "77.80%",
+    "uptimeMonth": "81.04%",
     "uptimeYear": "58.50%",
     "time": 340,
-    "timeDay": 465,
-    "timeWeek": 320,
+    "timeDay": 330,
+    "timeWeek": 331,
     "timeMonth": 256,
     "timeYear": 345,
     "dailyMinutesDown": {
