@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "67.04%",
+    "uptime": "67.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -34,7 +34,7 @@
     "timeMonth": 75,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2026-07-26": 549,
+      "2026-07-26": 1098,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
@@ -407,7 +407,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/seed10.usertoken.com.ico",
     "slug": "australia-southeast1",
     "status": "down",
-    "uptime": "4.38%",
+    "uptime": "4.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -418,7 +418,7 @@
     "timeMonth": 50,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2026-07-26": 549,
+      "2026-07-26": 1098,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
@@ -840,7 +840,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-26": 549,
+      "2026-07-26": 1098,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
@@ -1212,16 +1212,16 @@
     "url": "https://www.bellbella.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
-    "status": "down",
-    "uptime": "21.53%",
-    "uptimeDay": "54.50%",
-    "uptimeWeek": "83.36%",
-    "uptimeMonth": "79.26%",
-    "uptimeYear": "58.18%",
+    "status": "up",
+    "uptime": "21.52%",
+    "uptimeDay": "54.52%",
+    "uptimeWeek": "77.91%",
+    "uptimeMonth": "78.01%",
+    "uptimeYear": "58.08%",
     "time": 338,
-    "timeDay": 164,
-    "timeWeek": 278,
-    "timeMonth": 260,
+    "timeDay": 202,
+    "timeWeek": 281,
+    "timeMonth": 261,
     "timeYear": 345,
     "dailyMinutesDown": {
       "2025-08-04": 1020,
@@ -1411,7 +1411,7 @@
       "2026-07-21": 170,
       "2026-07-25": 1204,
       "2026-07-24": 303,
-      "2026-07-26": 0
+      "2026-07-26": 549
     }
   }
 ]
