@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "67.09%",
+    "uptime": "67.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/seed11.usertoken.com.ico",
     "slug": "us-central",
     "status": "down",
-    "uptime": "5.27%",
+    "uptime": "5.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +34,7 @@
     "timeMonth": 71,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2026-07-29": 123,
+      "2026-07-29": 1402,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 49,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2026-07-29": 123,
+      "2026-07-29": 1402,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -829,7 +829,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "9.41%",
+    "uptime": "9.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -840,7 +840,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-29": 123,
+      "2026-07-29": 1402,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -1212,16 +1212,16 @@
     "url": "https://www.bellbella.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
-    "status": "up",
-    "uptime": "21.61%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "21.65%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "77.77%",
-    "uptimeMonth": "84.34%",
+    "uptimeMonth": "86.27%",
     "uptimeYear": "58.04%",
     "time": 341,
     "timeDay": 112,
     "timeWeek": 371,
-    "timeMonth": 282,
+    "timeMonth": 281,
     "timeYear": 350,
     "dailyMinutesDown": {
       "2025-08-04": 1020,
@@ -1412,7 +1412,8 @@
       "2026-07-25": 1204,
       "2026-07-24": 303,
       "2026-07-26": 549,
-      "2026-07-27": 184
+      "2026-07-27": 184,
+      "2026-07-29": 0
     }
   }
 ]
