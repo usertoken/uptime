@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "67.37%",
+    "uptime": "67.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 222,
-    "timeDay": 133,
-    "timeWeek": 173,
-    "timeMonth": 202,
-    "timeYear": 230,
+    "time": 221,
+    "timeDay": 81,
+    "timeWeek": 153,
+    "timeMonth": 193,
+    "timeYear": 229,
     "dailyMinutesDown": {}
   },
   {
@@ -28,13 +28,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 122,
-    "timeDay": 119,
-    "timeWeek": 72,
-    "timeMonth": 68,
-    "timeYear": 124,
+    "time": 121,
+    "timeDay": 41,
+    "timeWeek": 71,
+    "timeMonth": 67,
+    "timeYear": 123,
     "dailyMinutesDown": {
-      "2026-08-14": 84,
+      "2026-08-15": 54,
+      "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
@@ -397,8 +398,7 @@
       "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
-      "2025-08-16": 1440,
-      "2025-08-15": 1440
+      "2025-08-16": 1440
     }
   },
   {
@@ -412,13 +412,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 112,
-    "timeDay": 30,
-    "timeWeek": 45,
+    "time": 111,
+    "timeDay": 33,
+    "timeWeek": 44,
     "timeMonth": 47,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2026-08-14": 84,
+      "2026-08-15": 54,
+      "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
@@ -781,8 +782,7 @@
       "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
-      "2025-08-16": 1440,
-      "2025-08-15": 1440
+      "2025-08-16": 1440
     }
   },
   {
@@ -797,9 +797,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 64,
-    "timeWeek": 96,
-    "timeMonth": 103,
+    "timeDay": 76,
+    "timeWeek": 92,
+    "timeMonth": 102,
     "timeYear": 131,
     "dailyMinutesDown": {}
   },
@@ -815,9 +815,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 131,
-    "timeDay": 54,
-    "timeWeek": 90,
-    "timeMonth": 100,
+    "timeDay": 47,
+    "timeWeek": 78,
+    "timeMonth": 96,
     "timeYear": 135,
     "dailyMinutesDown": {
       "2026-04-13": 55
@@ -829,7 +829,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "9.33%",
+    "uptime": "9.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -840,7 +840,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-14": 84,
+      "2026-08-15": 54,
+      "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
@@ -1203,8 +1204,7 @@
       "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
-      "2025-08-16": 1440,
-      "2025-08-15": 1440
+      "2025-08-16": 1440
     }
   },
   {
@@ -1213,16 +1213,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "down",
-    "uptime": "21.71%",
+    "uptime": "21.70%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "20.65%",
-    "uptimeMonth": "56.31%",
-    "uptimeYear": "55.33%",
+    "uptimeWeek": "20.06%",
+    "uptimeMonth": "53.09%",
+    "uptimeYear": "55.06%",
     "time": 357,
-    "timeDay": 138,
-    "timeWeek": 422,
-    "timeMonth": 479,
-    "timeYear": 370,
+    "timeDay": 135,
+    "timeWeek": 475,
+    "timeMonth": 478,
+    "timeYear": 369,
     "dailyMinutesDown": {
       "2025-09-04": 95,
       "2025-09-17": 25,
@@ -1422,7 +1422,8 @@
       "2026-08-08": 1403,
       "2026-08-09": 1071,
       "2026-08-10": 67,
-      "2026-08-14": 84,
+      "2026-08-15": 54,
+      "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1196
