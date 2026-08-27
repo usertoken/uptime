@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "67.57%",
+    "uptime": "67.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 391,
-    "timeWeek": 260,
-    "timeMonth": 213,
-    "timeYear": 228,
+    "timeDay": 131,
+    "timeWeek": 246,
+    "timeMonth": 206,
+    "timeYear": 218,
     "dailyMinutesDown": {}
   },
   {
@@ -28,13 +28,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 121,
-    "timeDay": 61,
-    "timeWeek": 96,
+    "time": 120,
+    "timeDay": 67,
+    "timeWeek": 95,
     "timeMonth": 72,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2026-08-26": 57,
+      "2026-08-27": 408,
+      "2026-08-26": 1440,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -397,8 +398,7 @@
       "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
-      "2025-08-28": 1440,
-      "2025-08-27": 1440
+      "2025-08-28": 1440
     }
   },
   {
@@ -407,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/seed10.usertoken.com.ico",
     "slug": "australia-southeast1",
     "status": "down",
-    "uptime": "4.31%",
+    "uptime": "4.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 110,
-    "timeDay": 46,
-    "timeWeek": 54,
-    "timeMonth": 46,
-    "timeYear": 108,
+    "time": 109,
+    "timeDay": 33,
+    "timeWeek": 50,
+    "timeMonth": 45,
+    "timeYear": 99,
     "dailyMinutesDown": {
-      "2026-08-26": 57,
+      "2026-08-27": 408,
+      "2026-08-26": 1440,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -781,8 +782,7 @@
       "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
-      "2025-08-28": 1440,
-      "2025-08-27": 1440
+      "2025-08-28": 1440
     }
   },
   {
@@ -796,10 +796,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 129,
-    "timeDay": 121,
-    "timeWeek": 113,
-    "timeMonth": 105,
+    "time": 126,
+    "timeDay": 66,
+    "timeWeek": 107,
+    "timeMonth": 103,
     "timeYear": 131,
     "dailyMinutesDown": {}
   },
@@ -815,9 +815,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 131,
-    "timeDay": 105,
-    "timeWeek": 134,
-    "timeMonth": 110,
+    "timeDay": 54,
+    "timeWeek": 125,
+    "timeMonth": 107,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2026-04-13": 55
@@ -829,7 +829,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "9.27%",
+    "uptime": "9.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -840,7 +840,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-26": 57,
+      "2026-08-27": 408,
+      "2026-08-26": 1440,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -1203,8 +1204,7 @@
       "2025-08-31": 1440,
       "2025-08-30": 1440,
       "2025-08-29": 1440,
-      "2025-08-28": 1440,
-      "2025-08-27": 1440
+      "2025-08-28": 1440
     }
   },
   {
@@ -1213,16 +1213,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "down",
-    "uptime": "21.83%",
-    "uptimeDay": "7.52%",
+    "uptime": "21.82%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "1.65%",
-    "uptimeMonth": "24.05%",
-    "uptimeYear": "52.08%",
-    "time": 355,
-    "timeDay": 460,
-    "timeWeek": 311,
-    "timeMonth": 491,
-    "timeYear": 366,
+    "uptimeMonth": "21.21%",
+    "uptimeYear": "51.74%",
+    "time": 354,
+    "timeDay": 123,
+    "timeWeek": 294,
+    "timeMonth": 492,
+    "timeYear": 365,
     "dailyMinutesDown": {
       "2025-09-04": 95,
       "2025-09-17": 25,
@@ -1437,7 +1437,8 @@
       "2026-08-21": 1440,
       "2026-08-25": 1332,
       "2026-08-24": 1440,
-      "2026-08-26": 57
+      "2026-08-27": 408,
+      "2026-08-26": 1440
     }
   }
 ]
