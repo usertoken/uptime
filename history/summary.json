@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "67.61%",
+    "uptime": "67.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 221,
-    "timeDay": 257,
-    "timeWeek": 257,
-    "timeMonth": 206,
-    "timeYear": 217,
+    "time": 222,
+    "timeDay": 378,
+    "timeWeek": 296,
+    "timeMonth": 219,
+    "timeYear": 218,
     "dailyMinutesDown": {}
   },
   {
@@ -28,13 +28,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 120,
-    "timeDay": 158,
-    "timeWeek": 105,
-    "timeMonth": 75,
-    "timeYear": 122,
+    "time": 121,
+    "timeDay": 320,
+    "timeWeek": 153,
+    "timeMonth": 89,
+    "timeYear": 123,
     "dailyMinutesDown": {
-      "2026-08-28": 516,
+      "2026-08-29": 315,
+      "2026-08-28": 1440,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
       "2026-08-25": 1440,
@@ -397,8 +398,7 @@
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
-      "2025-08-30": 1440,
-      "2025-08-29": 1440
+      "2025-08-30": 1440
     }
   },
   {
@@ -412,13 +412,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 109,
-    "timeDay": 38,
-    "timeWeek": 45,
-    "timeMonth": 45,
+    "time": 110,
+    "timeDay": 137,
+    "timeWeek": 74,
+    "timeMonth": 51,
     "timeYear": 99,
     "dailyMinutesDown": {
-      "2026-08-28": 516,
+      "2026-08-29": 315,
+      "2026-08-28": 1440,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
       "2026-08-25": 1440,
@@ -781,8 +782,7 @@
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
-      "2025-08-30": 1440,
-      "2025-08-29": 1440
+      "2025-08-30": 1440
     }
   },
   {
@@ -796,10 +796,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 125,
-    "timeDay": 89,
-    "timeWeek": 99,
-    "timeMonth": 102,
+    "time": 126,
+    "timeDay": 180,
+    "timeWeek": 125,
+    "timeMonth": 109,
     "timeYear": 131,
     "dailyMinutesDown": {}
   },
@@ -815,10 +815,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 131,
-    "timeDay": 68,
-    "timeWeek": 119,
-    "timeMonth": 103,
-    "timeYear": 123,
+    "timeDay": 208,
+    "timeWeek": 158,
+    "timeMonth": 113,
+    "timeYear": 124,
     "dailyMinutesDown": {
       "2026-04-13": 55
     }
@@ -829,7 +829,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "9.26%",
+    "uptime": "9.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -840,7 +840,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-28": 516,
+      "2026-08-29": 315,
+      "2026-08-28": 1440,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
       "2026-08-25": 1440,
@@ -1203,8 +1204,7 @@
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
-      "2025-08-30": 1440,
-      "2025-08-29": 1440
+      "2025-08-30": 1440
     }
   },
   {
@@ -1213,15 +1213,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "down",
-    "uptime": "21.81%",
+    "uptime": "21.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "1.38%",
-    "uptimeMonth": "18.10%",
-    "uptimeYear": "51.44%",
+    "uptimeMonth": "15.27%",
+    "uptimeYear": "51.21%",
     "time": 354,
-    "timeDay": 149,
-    "timeWeek": 298,
-    "timeMonth": 467,
+    "timeDay": 331,
+    "timeWeek": 327,
+    "timeMonth": 474,
     "timeYear": 365,
     "dailyMinutesDown": {
       "2025-09-04": 95,
@@ -1437,7 +1437,8 @@
       "2026-08-21": 1440,
       "2026-08-25": 1332,
       "2026-08-24": 1440,
-      "2026-08-28": 516,
+      "2026-08-29": 315,
+      "2026-08-28": 1440,
       "2026-08-27": 1440,
       "2026-08-26": 1440
     }
