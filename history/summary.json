@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "67.72%",
+    "uptime": "67.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 190,
-    "timeWeek": 252,
-    "timeMonth": 211,
+    "timeDay": 101,
+    "timeWeek": 233,
+    "timeMonth": 207,
     "timeYear": 218,
     "dailyMinutesDown": {}
   },
@@ -29,12 +29,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 121,
-    "timeDay": 118,
-    "timeWeek": 174,
+    "timeDay": 70,
+    "timeWeek": 163,
     "timeMonth": 100,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2026-09-04": 151,
+      "2026-09-05": 152,
+      "2026-09-04": 1440,
       "2026-09-03": 1440,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
@@ -397,8 +398,7 @@
       "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
-      "2025-09-06": 1440,
-      "2025-09-05": 1440
+      "2025-09-06": 1440
     }
   },
   {
@@ -407,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/seed10.usertoken.com.ico",
     "slug": "australia-southeast1",
     "status": "down",
-    "uptime": "4.29%",
+    "uptime": "4.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 109,
-    "timeDay": 70,
+    "timeDay": 43,
     "timeWeek": 83,
     "timeMonth": 55,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2026-09-04": 151,
+      "2026-09-05": 152,
+      "2026-09-04": 1440,
       "2026-09-03": 1440,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
@@ -781,8 +782,7 @@
       "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
-      "2025-09-06": 1440,
-      "2025-09-05": 1440
+      "2025-09-06": 1440
     }
   },
   {
@@ -797,9 +797,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
-    "timeDay": 105,
+    "timeDay": 88,
     "timeWeek": 143,
-    "timeMonth": 109,
+    "timeMonth": 110,
     "timeYear": 131,
     "dailyMinutesDown": {}
   },
@@ -815,10 +815,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 131,
-    "timeDay": 97,
-    "timeWeek": 126,
-    "timeMonth": 115,
-    "timeYear": 124,
+    "timeDay": 52,
+    "timeWeek": 124,
+    "timeMonth": 113,
+    "timeYear": 123,
     "dailyMinutesDown": {
       "2026-04-13": 55
     }
@@ -829,7 +829,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "9.23%",
+    "uptime": "9.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -840,7 +840,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-04": 151,
+      "2026-09-05": 152,
+      "2026-09-04": 1440,
       "2026-09-03": 1440,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
@@ -1203,8 +1204,7 @@
       "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
-      "2025-09-06": 1440,
-      "2025-09-05": 1440
+      "2025-09-06": 1440
     }
   },
   {
@@ -1213,15 +1213,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "down",
-    "uptime": "21.73%",
+    "uptime": "21.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.17%",
-    "uptimeYear": "49.59%",
+    "uptimeMonth": "3.79%",
+    "uptimeYear": "49.34%",
     "time": 353,
-    "timeDay": 275,
-    "timeWeek": 257,
-    "timeMonth": 377,
+    "timeDay": 176,
+    "timeWeek": 260,
+    "timeMonth": 364,
     "timeYear": 363,
     "dailyMinutesDown": {
       "2025-09-17": 25,
@@ -1436,7 +1436,8 @@
       "2026-08-21": 1440,
       "2026-08-25": 1332,
       "2026-08-24": 1440,
-      "2026-09-04": 151,
+      "2026-09-05": 152,
+      "2026-09-04": 1440,
       "2026-09-03": 1440,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
